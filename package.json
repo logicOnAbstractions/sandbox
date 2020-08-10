@@ -1,0 +1,16 @@
+{
+  "type":"module",
+  "name": "broadcast",
+  "version": "0.0.1",
+  "description": "CLI utility to broadcast emails",
+  "main": "broadcast.js",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.1.4",
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "csv": "^1.1.0",
+    "inquirer": "^2.0.0",
+    "sendgrid": "^4.7.1"
+  }
+}
